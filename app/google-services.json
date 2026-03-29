@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747405885068",
+    "project_id": "miniinstagram-c65fc",
+    "storage_bucket": "miniinstagram-c65fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747405885068:android:18f6966e5271da6d08c5a9",
+        "android_client_info": {
+          "package_name": "com.example.miniinstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGB9muhkdSBT4wqABdNLt3K3fBgMmZcdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
